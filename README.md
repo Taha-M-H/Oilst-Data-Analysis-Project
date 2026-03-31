@@ -12,6 +12,10 @@ Logistics: Average delivery time of 12.5 days, with a 93.4% on-time delivery rat
 Customer Satisfaction: Average review score of 4.09/5.
 Geographic Focus: 50% of sales are driven by São Paulo, Rio de Janeiro, and Belo Horizonte.
 
+<img width="1854" height="704" alt="project pic 1" src="https://github.com/user-attachments/assets/8c49a640-357b-4d70-baf2-2c9e9aed69fa" />
+<img width="1839" height="714" alt="project pic 2" src="https://github.com/user-attachments/assets/e61747d2-958c-412f-bf47-5ccdca26e9b2" />
+<img width="1203" height="782" alt="project pic 3" src="https://github.com/user-attachments/assets/cb96c52c-9832-484c-b149-844a81619d4c" />
+
 Source Data: (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 Contributors:
